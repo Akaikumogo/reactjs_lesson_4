@@ -1,0 +1,25 @@
+{
+  "name": "home_work",
+  "version": "1.0.0",
+  "description": "react js uyga vazifa : react vs dom filestructure hook usestate useeffect fetch in react ",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "keywords": [
+    "uyga",
+    "vazifa"
+  ],
+  "author": "Akaikumogo",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.1.0",
+    "prettier": "^2.7.1",
+    "vite": "^3.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
